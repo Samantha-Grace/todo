@@ -16,3 +16,14 @@ code {
   font-size: 20px;
   font-weight: 900;
 }
+
+.number {
+  text-align: center;
+  font-size: 200px;
+  padding: 1rem;
+}
+
+.btn-group {
+  display: flex;
+  justify-content: space-evenly;
+}

@@ -1,0 +1,23 @@
+[33mcommit 57027e41c00d592a36397b5ff91cc848deb4d1c1[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Samantha Gagen <sgagen@r1rcm.com>
+Date:   Wed Jun 24 08:58:33 2020 -0600
+
+    refactored app into components
+
+[33mcommit dff88c4919fba34b03cb31dba55c3ad91c92e548[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: Samantha Gagen <sgagen@r1rcm.com>
+Date:   Wed Jun 24 08:28:35 2020 -0600
+
+    Add style
+
+[33mcommit 9f827bfec7beb7e75ec5e8bd27b0801c1b0ac26d[m
+Author: Samantha Gagen <sgagen@r1rcm.com>
+Date:   Wed Jun 10 08:56:33 2020 -0600
+
+    remove boilerplate
+
+[33mcommit 7aa86ad622a6e61a7c6391f391cc0187133a5d39[m
+Author: Samantha Gagen <sgagen@r1rcm.com>
+Date:   Wed Jun 10 08:20:31 2020 -0600
+
+    Initialize project using Create React App

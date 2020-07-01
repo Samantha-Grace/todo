@@ -1,13 +1,20 @@
-import React from "react";
+import React, { useState } from "react";
 import logo from "./logo.svg";
 import "./App.css";
 
 function App() {
+  const [myNumber, setMyNumber] = useState(0);
+
   return (
     <AppBoundary>
       <header className="big-font">
-        <Title>My TODO App</Title>
+        <Title>My Counter App</Title>
       </header>
+      <div className="number">{myNumber}</div>
+      <div className="btn-group">
+        <button onClick={() => setMyNumber(myNumber - 1)}>minus</button>
+        <button onClick={() => setMyNumber(myNumber + 1)}>add</button>
+      </div>
     </AppBoundary>
   );
 }
